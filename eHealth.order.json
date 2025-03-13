@@ -1,0 +1,1389 @@
+[{
+  "_id": {
+    "$oid": "664c53dcea9cb97942f72ed5"
+  },
+  "user": {
+    "$oid": "664c31d86d72b1e07bc7ab34"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "664c53dcea9cb97942f72ed6"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "cdvc",
+    "address": "csdcs",
+    "city": "Patna",
+    "postalCode": "844177",
+    "contact": "7894566"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-21T07:57:16.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T07:57:16.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665421e833739bcad3e14065"
+  },
+  "user": {
+    "$oid": "6654218b33739bcad3e14059"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665421e833739bcad3e14066"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Koustav Manna",
+    "address": "Khariop Amta Howrah",
+    "city": "Khulna",
+    "postalCode": "711401",
+    "contact": "07063292246"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-27T06:02:16.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T06:02:16.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665586cae3b72fdbdf83450b"
+  },
+  "user": {
+    "$oid": "664c31d86d72b1e07bc7ab34"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665586cae3b72fdbdf83450c"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "cdvc",
+    "address": "csdcs",
+    "city": "Patna",
+    "postalCode": "844177",
+    "contact": "7894566"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-28T07:24:58.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T07:24:58.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66558749e3b72fdbdf83451a"
+  },
+  "user": {
+    "$oid": "664c31d86d72b1e07bc7ab34"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "66558749e3b72fdbdf83451b"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "cdvc",
+    "address": "csdcs",
+    "city": "Patna",
+    "postalCode": "844177",
+    "contact": "7894566"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-28T07:27:05.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T07:27:05.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657741129d703970f9adf4e"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "6657741229d703970f9adf4f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "Chattogram",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-29T18:29:38.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T18:29:38.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665779c229d703970f9adf72"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "665779c229d703970f9adf73"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "Chattogram",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-29T18:53:54.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-29T18:53:54.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66583f473b356674e7f9e905"
+  },
+  "user": {
+    "$oid": "66583cab3b356674e7f9e8e9"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "66583f473b356674e7f9e906"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "amit",
+    "address": "kolkata",
+    "city": "Khulna",
+    "postalCode": "711225",
+    "contact": "09547876946"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-30T08:56:39.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-30T08:56:39.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66585eb26d03ea26e5b10462"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "66585eb26d03ea26e5b10463"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "Chattogram",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-30T11:10:42.932Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-30T11:10:42.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665861af6d03ea26e5b10481"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665861af6d03ea26e5b10482"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-05-30T11:23:27.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-30T11:23:27.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665db4405d697c87024119eb"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665db4405d697c87024119ec"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-03T12:17:04.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T12:17:04.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f1c182507fb3d3e02fa6a"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665f1c182507fb3d3e02fa6b"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T13:52:24.729Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T13:52:24.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f1d1f2507fb3d3e02fa7e"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665f1d1f2507fb3d3e02fa7f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T13:56:47.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T13:56:47.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f2f347cf643e32e18964e"
+  },
+  "user": {
+    "$oid": "66583cab3b356674e7f9e8e9"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "665f2f347cf643e32e18964f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "amit",
+    "address": "kolkata",
+    "city": "kolkata",
+    "postalCode": "700102",
+    "contact": "09547876946"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T15:13:56.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:13:56.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f30667cf643e32e18968a"
+  },
+  "user": {
+    "$oid": "66583cab3b356674e7f9e8e9"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "665f30667cf643e32e18968b"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "sudipta maity",
+    "address": "kolkata",
+    "city": "kolkata",
+    "postalCode": "700102",
+    "contact": "09547876946"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T15:19:02.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T15:19:02.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f541e595d079fdb58f84f"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665f541e595d079fdb58f850"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T17:51:26.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T17:51:26.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f8def595d079fdb58f897"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 2,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665f8def595d079fdb58f898"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 674,
+  "shippingPrice": 60,
+  "totalPrice": 734,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T21:58:07.392Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T21:58:07.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f8df1595d079fdb58f8a1"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 2,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665f8df1595d079fdb58f8a2"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 674,
+  "shippingPrice": 60,
+  "totalPrice": 734,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T21:58:09.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T21:58:09.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f998b595d079fdb58f8b8"
+  },
+  "user": {
+    "$oid": "6657731b29d703970f9adf3c"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "665f998b595d079fdb58f8b9"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Pobitra Dowari",
+    "address": "Rampur, Udaynarayanpur, Howrah,711226",
+    "city": "kolkata",
+    "postalCode": "711226",
+    "contact": "9091648450"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-06-04T22:47:39.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-04T22:47:39.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6694f147243014d466769419"
+  },
+  "user": {
+    "$oid": "663ee3a14352fa164427b1b9"
+  },
+  "orderItems": [
+    {
+      "name": "Xeldrin 20mg",
+      "qty": 1,
+      "image": "/images/xeldin.png",
+      "price": 48,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c6"
+      },
+      "_id": {
+        "$oid": "6694f147243014d46676941a"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "rahul",
+    "address": "dhaka",
+    "city": "Dhaka",
+    "postalCode": "1000",
+    "contact": "0124567878"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 48,
+  "shippingPrice": 60,
+  "totalPrice": 108,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-07-15T09:52:07.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:52:07.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66963c771d76500c7d66f2ad"
+  },
+  "user": {
+    "$oid": "663ee3a14352fa164427b1b9"
+  },
+  "orderItems": [
+    {
+      "name": "Cabergoline",
+      "qty": 2,
+      "image": "/images/Cabergol.jpg",
+      "price": 80,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1be"
+      },
+      "_id": {
+        "$oid": "66963c771d76500c7d66f2ae"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Shubham sharma",
+    "address": "dhaka",
+    "city": "Dhaka",
+    "postalCode": "1000",
+    "contact": "056346648"
+  },
+  "paymentMethod": "AamarPay",
+  "itemsPrice": 160,
+  "shippingPrice": 60,
+  "totalPrice": 220,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-07-16T09:25:11.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T09:25:11.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672c4000fca43c6b8c48016e"
+  },
+  "user": {
+    "$oid": "663ee3a14352fa164427b1b9"
+  },
+  "orderItems": [
+    {
+      "name": "Alatrol Tablet 10 mg",
+      "qty": 6,
+      "image": "/images/Alatrol.jpg",
+      "price": 452,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c2"
+      },
+      "_id": {
+        "$oid": "672c4000fca43c6b8c48016f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "kunal rod",
+    "address": "Prem nagar Thane K piche",
+    "city": "Dhaka",
+    "postalCode": "284003",
+    "contact": "7355958015"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 2712,
+  "shippingPrice": 120,
+  "totalPrice": 2832,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-07T04:20:16.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T04:20:16.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672c437afca43c6b8c4801d1"
+  },
+  "user": {
+    "$oid": "672c42d1fca43c6b8c48019e"
+  },
+  "orderItems": [
+    {
+      "name": "Amodis 500",
+      "qty": 1,
+      "image": "/images/amodis.png",
+      "price": 18,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c7"
+      },
+      "_id": {
+        "$oid": "672c437afca43c6b8c4801d2"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "kunal",
+    "address": "Prem nagar Thane K piche",
+    "city": "Dhaka",
+    "postalCode": "284003",
+    "contact": "7355958015"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 18,
+  "shippingPrice": 60,
+  "totalPrice": 78,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-07T04:35:06.262Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T04:35:06.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673c4e5257faf3ece73d4913"
+  },
+  "user": {
+    "$oid": "663ee3a14352fa164427b1b9"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "673c4e5257faf3ece73d4914"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Arun",
+    "address": "Prem nagar Thane K piche",
+    "city": "Dhaka",
+    "postalCode": "284003",
+    "contact": "7355958015"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-19T08:37:38.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T08:37:38.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67499bb955d90c39658df111"
+  },
+  "user": {
+    "$oid": "663ee3a14352fa164427b1b9"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "67499bb955d90c39658df112"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Anil",
+    "address": "Prem nagar Thane K piche",
+    "city": "Rajshahi",
+    "postalCode": "284003",
+    "contact": "7355958015"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-29T10:47:21.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T10:47:21.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67499e7f55d90c39658df141"
+  },
+  "user": {
+    "$oid": "663ee3a14352fa164427b1b9"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "67499e7f55d90c39658df142"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "Ansh ROd",
+    "address": "Prem nagar Thane K piche",
+    "city": "Rajshahi",
+    "postalCode": "284003",
+    "contact": "7355958015"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2024-11-29T10:59:11.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T10:59:11.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678b4612b1aba470e8996017"
+  },
+  "user": {
+    "$oid": "678b4523b1aba470e8996007"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "678b4612b1aba470e8996018"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "demo1",
+    "address": "uyugtyu6r",
+    "city": "Sylhet",
+    "postalCode": "567789",
+    "contact": "9980675645"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-01-18T06:11:30.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-18T06:11:30.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678b48b4b1aba470e899602e"
+  },
+  "user": {
+    "$oid": "678b4523b1aba470e8996007"
+  },
+  "orderItems": [
+    {
+      "name": "Truffs",
+      "qty": 4,
+      "image": "/images/Tufnil.png",
+      "price": 96,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c5"
+      },
+      "_id": {
+        "$oid": "678b48b4b1aba470e899602f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "demo1",
+    "address": "bangalore",
+    "city": "Dhaka",
+    "postalCode": "567789",
+    "contact": "9980675645"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 384,
+  "shippingPrice": 60,
+  "totalPrice": 444,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-01-18T06:22:44.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-18T06:22:44.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aee507b75f1e718528d900"
+  },
+  "user": {
+    "$oid": "67aee4a2b75f1e718528d8e0"
+  },
+  "orderItems": [
+    {
+      "name": "Cabergoline",
+      "qty": 1,
+      "image": "/images/Cabergol.jpg",
+      "price": 80,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1be"
+      },
+      "_id": {
+        "$oid": "67aee507b75f1e718528d901"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "demo",
+    "address": "fvgfdg",
+    "city": "Bengaluru",
+    "postalCode": "573445",
+    "contact": "6789564534"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 80,
+  "shippingPrice": 60,
+  "totalPrice": 140,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-02-14T06:39:03.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:39:03.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af02de1e394b5e890e9446"
+  },
+  "user": {
+    "$oid": "67aef1cda3e2ae5ebaf2361e"
+  },
+  "orderItems": [
+    {
+      "name": "condom",
+      "qty": 10,
+      "image": "/uploads\\image-1739521469413.jpeg",
+      "price": 450,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bd"
+      },
+      "_id": {
+        "$oid": "67af02de1e394b5e890e9447"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "xxx",
+    "address": "xxx",
+    "city": "Dhaka",
+    "postalCode": "446788",
+    "contact": "xxxxxxxxxxx"
+  },
+  "paymentMethod": "AamarPay",
+  "itemsPrice": 4500,
+  "shippingPrice": 120,
+  "totalPrice": 4620,
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-02-14T08:46:22.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T08:47:05.602Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2025-02-14T08:47:05.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67af033a1e394b5e890e9462"
+  },
+  "user": {
+    "$oid": "67aef1cda3e2ae5ebaf2361e"
+  },
+  "orderItems": [
+    {
+      "name": "condom",
+      "qty": 72,
+      "image": "/uploads\\image-1739521469413.jpeg",
+      "price": 450,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bd"
+      },
+      "_id": {
+        "$oid": "67af033a1e394b5e890e9463"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "xxx",
+    "address": "xxx",
+    "city": "Dhaka",
+    "postalCode": "446788",
+    "contact": "xxxxxxxxxxx"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 32400,
+  "shippingPrice": 120,
+  "totalPrice": 32520,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-02-14T08:47:54.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T08:47:54.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2a46a937d6db453282a32"
+  },
+  "user": {
+    "$oid": "67c2a0ba937d6db453282a15"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "67c2a46a937d6db453282a33"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "John Chavda",
+    "address": " Rupmahel, Vadodara",
+    "city": "Vadodara",
+    "postalCode": "382834",
+    "contact": "9879785753"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-03-01T06:08:42.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T06:08:42.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2a6be937d6db453282a43"
+  },
+  "user": {
+    "$oid": "67c2a0ba937d6db453282a15"
+  },
+  "orderItems": [
+    {
+      "name": "Norium 5 mg",
+      "qty": 1,
+      "image": "/images/Norium.jpg",
+      "price": 400,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1c0"
+      },
+      "_id": {
+        "$oid": "67c2a6be937d6db453282a44"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "John Chavda",
+    "address": " Rupmahel, Vadodara",
+    "city": "Vadodara",
+    "postalCode": "382834",
+    "contact": "9879785753"
+  },
+  "paymentMethod": "AamarPay",
+  "itemsPrice": 400,
+  "shippingPrice": 60,
+  "totalPrice": 460,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-03-01T06:18:38.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T06:18:38.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c2b936937d6db453282b9a"
+  },
+  "user": {
+    "$oid": "67c2a0ba937d6db453282a15"
+  },
+  "orderItems": [
+    {
+      "name": "Civox 500mg",
+      "qty": 1,
+      "image": "/images/Civox.jpg",
+      "price": 337,
+      "med": {
+        "$oid": "663ee3a24352fa164427b1bf"
+      },
+      "_id": {
+        "$oid": "67c2b936937d6db453282b9b"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "name": "John Chavda",
+    "address": " Rupmahel, Vadodara",
+    "city": "Vadodara",
+    "postalCode": "382834",
+    "contact": "9879785753"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 337,
+  "shippingPrice": 60,
+  "totalPrice": 397,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2025-03-01T07:37:26.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T07:37:26.245Z"
+  },
+  "__v": 0
+}]

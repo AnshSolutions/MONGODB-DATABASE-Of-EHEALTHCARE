@@ -1,0 +1,135 @@
+[
+    {
+      "_id": {
+        "$oid": "663ee3a24352fa164427b1c9"
+      },
+      "user": {
+        "$oid": "663ee3a14352fa164427b1b9"
+      },
+      "name": "Dr. Ramesh Sharma",
+      "image": "https://example.com/images/ramesh_sharma.jpg",
+      "degree": "MBBS, MCPS, MD(Neurology)",
+      "specialist": "Neuro Medicine",
+      "chamber": "Mount Adora Hospital",
+      "tag": "mount",
+      "available": "5pm-9pm",
+      "__v": 0,
+      "createdAt": {
+        "$date": "2025-05-11T03:18:58.483Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-14T08:41:01.697Z"
+      },
+      "Number of Appointments": "2"
+    },
+    {
+      "_id": {
+        "$oid": "663ee3a24352fa164427b1ca"
+      },
+      "user": {
+        "$oid": "663ee3a14352fa164427b1b9"
+      },
+      "name": "Dr. Rajesh Kumar",
+      "image": "https://example.com/images/rajesh_kumar.jpg",
+      "degree": "MBBS, MCPS(Medicine), MD(Neurology)",
+      "specialist": "Kidney Diseases & Medicine",
+      "chamber": "Mount Adora Hospital",
+      "tag": "mount",
+      "available": "5pm-11pm",
+      "__v": 0,
+      "createdAt": {
+        "$date": "2025-05-11T03:18:58.483Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-11T03:18:58.483Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "663ee3a24352fa164427b1cb"
+      },
+      "user": {
+        "$oid": "663ee3a14352fa164427b1b9"
+      },
+      "name": "Prof. Dr. Arvind Singh",
+      "image": "https://example.com/images/arvind_singh.jpg",
+      "degree": "MBBS, FCPS(Medicine)",
+      "specialist": "Medicine",
+      "chamber": "Medinova Medical Services Ltd",
+      "tag": "medinova",
+      "available": "5pm-9pm",
+      "__v": 0,
+      "createdAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "663ee3a24352fa164427b1cc"
+      },
+      "user": {
+        "$oid": "663ee3a14352fa164427b1b9"
+      },
+      "name": "Dr. Vikram Patel",
+      "image": "https://example.com/images/vikram_patel.jpg",
+      "degree": "MBBS, MCPS(Medicine), MD(Cardiology)",
+      "specialist": "Medicine and Cardiology",
+      "chamber": "Al Haramain Hospital Private Limited",
+      "tag": "alharamain",
+      "available": "2pm-6pm",
+      "__v": 0,
+      "createdAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "663ee3a24352fa164427b1cd"
+      },
+      "user": {
+        "$oid": "663ee3a14352fa164427b1b9"
+      },
+      "name": "Dr. Sanjay Gupta",
+      "image": "https://example.com/images/sanjay_gupta.jpg",
+      "degree": "MBBS, FCPS, DDV",
+      "specialist": "Skin, Allergy and Sexual Diseases",
+      "chamber": "Popular Medical Center Ltd",
+      "tag": "popular",
+      "available": "3pm-5pm",
+      "__v": 0,
+      "createdAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "663ee3a24352fa164427b1cf"
+      },
+      "user": {
+        "$oid": "663ee3a14352fa164427b1b9"
+      },
+      "name": "Dr. Anil Mehta",
+      "image": "https://example.com/images/anil_mehta.jpg",
+      "degree": "MBBS, FCPS(ENT), MCPS(ENT)",
+      "specialist": "ENT Specialist & Head Neck Laser Surgeon",
+      "chamber": "NJL ENT Centre",
+      "tag": "njl",
+      "available": "7am-12pm",
+      "__v": 0,
+      "createdAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-11T03:18:58.484Z"
+      }
+    }
+  ]

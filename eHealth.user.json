@@ -1,0 +1,559 @@
+[
+    {
+      "_id": {
+        "$oid": "6657731b29d703970f9adf3c"
+      },
+      "name": "Ansh Rod",
+      "email": "anshcoder9@gmail.com",
+      "password": "$2a$10$wXdmdva9YMlVq1IRCrYrUuiWkGN7ERNiQqaHiP7sb2DwnIuwdpyU6",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-05-29T18:25:31.042Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-29T18:25:48.866Z"
+      },
+      "__v": 0,
+      "isToken": ""
+    },
+    {
+      "_id": {
+        "$oid": "66583cab3b356674e7f9e8e9"
+      },
+      "name": "Kunal Rod",
+      "email": "anshror44@gmail.com",
+      "password": "$2a$10$1uZLmoReHV4mlxhVNzQQZeIyihTTbOGIN/0rEanbe8/d7g9pt33YO",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-05-30T08:45:31.997Z"
+      },
+      "updatedAt": {
+        "$date": "2025-05-30T08:47:01.219Z"
+      },
+      "__v": 0,
+      "isToken": ""
+    },
+    {
+      "_id": {
+        "$oid": "6677a0254fd009de4b4b9db2"
+      },
+      "name": "Amit Rod",
+      "email": "shyam@gmail.com",
+      "password": "$2a$10$5LFCKyeBpvbSvNxYTFlkqOx2cT6sQeKO3N35kmeXQnhGInVC9JMd2",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-06-23T04:10:13.531Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-23T04:13:00.675Z"
+      },
+      "__v": 0,
+      "isToken": ""
+    },
+    {
+      "_id": {
+        "$oid": "66a929225f2622d2b74cf91e"
+      },
+      "name": "Vinay Rod",
+      "email": "22cs073@charusat.edu.in",
+      "password": "$2a$10$TKecOerwtc0hA1RWLoojpe0Lqx8AIj558xL.whGKa8LvAgBkw/2DG",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-07-30T17:55:46.494Z"
+      },
+      "updatedAt": {
+        "$date": "2025-07-30T17:58:56.269Z"
+      },
+      "__v": 0,
+      "isToken": ""
+    },
+    {
+      "_id": {
+        "$oid": "66d827c411f5401fd1095084"
+      },
+      "name": "Raghav Rod",
+      "email": "pratham@gmail.com",
+      "password": "$2a$10$FHSYp6P4ggPITIGq6ljope4Ugbyz6jdI.ODnoPh9O56px3HE1CJjO",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-09-04T09:26:28.962Z"
+      },
+      "updatedAt": {
+        "$date": "2025-09-04T09:29:20.601Z"
+      },
+      "__v": 0,
+      "isToken": ""
+    },
+    {
+      "_id": {
+        "$oid": "672c42d1fca43c6b8c48019e"
+      },
+      "name": "Deepak Rod",
+      "email": "doctor2@gmail.com",
+      "password": "$2a$10$tiCJuIZDVyUf81gG.C2UMeMaQB/SLV3T2XTjbhmcdS.59Q2pto8uG",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-11-07T04:32:17.068Z"
+      },
+      "updatedAt": {
+        "$date": "2025-11-07T04:32:35.801Z"
+      },
+      "__v": 0,
+      "isToken": ""
+    },
+    {
+      "_id": {
+        "$oid": "67616191736c6c62ca1cff0f"
+      },
+      "name": "Renu Rod",
+      "email": "demo@local1.com",
+      "password": "$2a$10$O7bDi0qSmCgHKrsEje912eYOM6FYhP0mfmFrmiyU97gOV.JJmWoQS",
+      "isAdmin": true,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-12-17T11:33:37.428Z"
+      },
+      "updatedAt": {
+        "$date": "2025-12-17T11:33:37.428Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "678b44002a9e0068a0d6b78b"
+      },
+      "name": "Pushpa Rod",
+      "email": "testt1@gmail.com",
+      "password": "$2a$10$mKrl9rwI/sKKMgDt3AexdeU/NVW9HZB1voPssLRGVB4tY4EBHcB0i",
+      "isAdmin": true,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-01-18T06:02:40.306Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-18T06:02:41.339Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OGI0NDAwMmE5ZTAwNjhhMGQ2Yjc4YiIsImlhdCI6MTczNzE4MDE2MSwiZXhwIjoxNzM3MjY2NTYxfQ.jQPuU3Yn_8ih941slweAkUnzp-XvdMFcInuMCwprQxQ"
+    },
+    {
+      "_id": {
+        "$oid": "678e216179cd2230fd6bca73"
+      },
+      "name": "Usha Rod",
+      "email": "harsh33@gmail.com",
+      "password": "$2a$10$AV2Y7H0qRkb6bp.JCwXywu8q2vzGMMJCJGeaqCixI.wMhgC8YV12G",
+      "isAdmin": true,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-01-20T10:11:45.284Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-20T10:11:46.442Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OGUyMTYxNzljZDIyMzBmZDZiY2E3MyIsImlhdCI6MTczNzM2NzkwNiwiZXhwIjoxNzM3NDU0MzA2fQ.OEIZdgcnPF2u4LGIbxL7nUqI5Fk_b4yRfFSw2xelYGc"
+    },
+    {
+      "_id": {
+        "$oid": "679298283a844bb247941e71"
+      },
+      "name": "Priya Rod",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$OM8au7OhHBSWXNdHhnCPyOnTu.69JyEZFv/e1NZmLgbfFQfsXaHCi",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-01-23T19:27:36.029Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-23T19:27:36.772Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OTI5ODI4M2E4NDRiYjI0Nzk0MWU3MSIsImlhdCI6MTczNzY2MDQ1NiwiZXhwIjoxNzM3NzQ2ODU2fQ.kB-EYtzJlzcoCZQVsYTPRCmlPIohgcTX3jCXxms6-2E"
+    },
+    {
+      "_id": {
+        "$oid": "679319a03a844bb247941e90"
+      },
+      "name": "Anjali Rod",
+      "email": "pranavdavkare23@gmail.com",
+      "password": "$2a$10$YFd4lLyo2GjIblTeQUtsOeXTScSpAr8/6829b3nVt7Eq5snGWjVxa",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-01-24T04:40:00.144Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T04:40:01.768Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OTMxOWEwM2E4NDRiYjI0Nzk0MWU5MCIsImlhdCI6MTczNzY5MzYwMSwiZXhwIjoxNzM3NzgwMDAxfQ.HGhrdA9PpQaB9qqPxFnSSdZvtFzcqgMsuLxdUYFFke0"
+    },
+    {
+      "_id": {
+        "$oid": "67936ff67e222f33d28156c9"
+      },
+      "name": "Meena Rod",
+      "email": "admin122@mail.com",
+      "password": "$2a$10$WzRHUX1OVeoP4sizksD5nudgcicK1GXV.trUOMU35oTjiUGvSwKVu",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-01-24T10:48:22.642Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T10:48:23.734Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OTM2ZmY2N2UyMjJmMzNkMjgxNTZjOSIsImlhdCI6MTczNzcxNTcwMywiZXhwIjoxNzM3ODAyMTAzfQ.aoolb4jkXrOOV5jnXP-qiS0eQzkOFrJZukhApxUyRA8"
+    },
+    {
+      "_id": {
+        "$oid": "6793702b7e222f33d28156cf"
+      },
+      "name": "Poonam Rod",
+      "email": "pk4812@gmail.com",
+      "password": "$2a$10$NB5OJdd9av5gJuUQIxqgbOAbG4snV60N74rNm.9btSn24tsX.l6PK",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-01-24T10:49:15.150Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T10:49:15.901Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OTM3MDJiN2UyMjJmMzNkMjgxNTZjZiIsImlhdCI6MTczNzcxNTc1NSwiZXhwIjoxNzM3ODAyMTU1fQ.jAa-2lgf_fNr-mBcaw4vQasjq9gTmdzr4I0ToakFans"
+    },
+    {
+      "_id": {
+        "$oid": "67960a9e303fabc55edb5ba0"
+      },
+      "name": "Suman Rod",
+      "email": "archi06@gmail.com",
+      "password": "$2a$10$UUyG6q3MD4CQN86SnAZav.HCotckj7MR.zqLPVaswqm8qQJbphosu",
+      "isAdmin": true,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-01-26T10:12:46.668Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-26T10:12:48.650Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OTYwYTllMzAzZmFiYzU1ZWRiNWJhMCIsImlhdCI6MTczNzg4NjM2OCwiZXhwIjoxNzM3OTcyNzY4fQ.ZSmi4mTO5KQQB0dB11up2BifR-VwN0GbnLHnZ_FxVzs"
+    },
+    {
+      "_id": {
+        "$oid": "6798ac4cc697ce10f55830c6"
+      },
+      "name": "Kavita Rod",
+      "email": "raftaar@gmail.com",
+      "password": "$2a$10$J78Vipm8lz4vxt2n8gAm9esG.F00tbaTetplIH9EycWpNjEZi9vma",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-01-28T10:07:08.372Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-28T10:07:09.261Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OThhYzRjYzY5N2NlMTBmNTU4MzBjNiIsImlhdCI6MTczODA1ODgyOSwiZXhwIjoxNzM4MTQ1MjI5fQ.oRb9DiRRks_VX0qIY4UNunQjtBC6Cc62V7WZ-WHTw68"
+    },
+    {
+      "_id": {
+        "$oid": "679b255db7aa6ca7d74d7721"
+      },
+      "name": "Bhavna Rod",
+      "email": "test@gmail.com",
+      "password": "$2a$10$DjP2lj4r.QY4YJQxil0QReXws5dPScbGOeUOuNh4MJnRI1oI8hYQa",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-01-30T07:08:13.448Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-30T07:08:15.524Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OWIyNTVkYjdhYTZjYTdkNzRkNzcyMSIsImlhdCI6MTczODIyMDg5NSwiZXhwIjoxNzM4MzA3Mjk1fQ.6_6DL-0kxjVxG9uijQSPNFmBNs7mv1rRQ9L4faroJpg"
+    },
+    {
+      "_id": {
+        "$oid": "67a214ab2fa0203dc8c271f8"
+      },
+      "name": "Sunita Rod",
+      "email": "yogeshwaran1888@gmail.com",
+      "password": "$2a$10$iCqwhS1FoqBosvGP9wuJ.OBPi2alpijIj/ap1V8Rci6Vv5rrq.WJC",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-04T13:22:51.254Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-04T13:22:52.455Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YTIxNGFiMmZhMDIwM2RjOGMyNzFmOCIsImlhdCI6MTczODY3NTM3MiwiZXhwIjoxNzM4NzYxNzcyfQ.U0fzy--QT8cUmkpsJ6lKHFEMz_qhF2awHTf_1WxuT2U"
+    },
+    {
+      "_id": {
+        "$oid": "67a315497f19b589abf72324"
+      },
+      "name": "Rekha Rod",
+      "email": "akishv4@gmail.com",
+      "password": "$2a$10$kFyqc8TYyQ4l4iF0wEnNEe6RSu3pxoCiFuFE.KygU8jSumV3L7cN2",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-05T07:37:45.322Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-05T07:37:46.286Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YTMxNTQ5N2YxOWI1ODlhYmY3MjMyNCIsImlhdCI6MTczODc0MTA2NiwiZXhwIjoxNzM4ODI3NDY2fQ.ioDBEzE50_WvOZkzmBiQ2D7vhnOeB1E7w2frycA7sY4"
+    },
+    {
+      "_id": {
+        "$oid": "67a3b10e4a31b8c5db761261"
+      },
+      "name": "Aarti Rod",
+      "email": "samarthshrivastav1311@gmail.com",
+      "password": "$2a$10$Fmo1nIbHeKg.V483v38Q..GCtmWlxd3UGW5famoBIOuLPEGf0aIia",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-05T18:42:22.281Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-05T18:42:23.128Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YTNiMTBlNGEzMWI4YzVkYjc2MTI2MSIsImlhdCI6MTczODc4MDk0MywiZXhwIjoxNzM4ODY3MzQzfQ._i68ZM8Eim6tYD_9KoIXYf-i5jG-r3T8p76Ir5CtFFc"
+    },
+    {
+      "_id": {
+        "$oid": "67a99fb5f0bc126f20a73bf0"
+      },
+      "name": "Kiran Rod",
+      "email": "sam123@gmail.com",
+      "password": "$2a$10$m7wTGt1JC/H2rRK679jjn.WxjSBZ3Y/Q1KSlSHH8tGdXtM4GODBMW",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-10T06:41:57.344Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-10T06:41:58.629Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YTk5ZmI1ZjBiYzEyNmYyMGE3M2JmMCIsImlhdCI6MTczOTE2OTcxOCwiZXhwIjoxNzM5MjU2MTE4fQ.HriQDSIDOQ8WNuZ_86wCsl7tNTb-JbkYLFk1Aj_5FvQ"
+    },
+    {
+      "_id": {
+        "$oid": "67a99ffdf0bc126f20a73bf5"
+      },
+      "name": "Seema Rod",
+      "email": "sam124@gmail.com",
+      "password": "$2a$10$oM691fiD02vBXQyZfb6p1ekoEa48hPNrZH/gQfJmFXPt8HK11MQUi",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-10T06:43:09.248Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-10T06:43:09.995Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YTk5ZmZkZjBiYzEyNmYyMGE3M2JmNSIsImlhdCI6MTczOTE2OTc4OSwiZXhwIjoxNzM5MjU2MTg5fQ.nqcnSk4ekiEplv5mnDvUubeuo8Y9VyB4NoUrQLu6ok8"
+    },
+    {
+      "_id": {
+        "$oid": "67a9a080f0bc126f20a73c0b"
+      },
+      "name": "Nisha Rod",
+      "email": "hola@gmail.com",
+      "password": "$2a$10$MXPaPisXsN0S7sUO2MwjP.Fi3L30CIdlK/WwITVwHiPAoBOcLmCnG",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-10T06:45:20.310Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-10T06:45:21.085Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YTlhMDgwZjBiYzEyNmYyMGE3M2MwYiIsImlhdCI6MTczOTE2OTkyMSwiZXhwIjoxNzM5MjU2MzIxfQ.pzgos8uMBp6_ynsa9ipVej_F8uRNd2kqdkT7F4ruF5c"
+    },
+    {
+      "_id": {
+        "$oid": "67aee262b75f1e718528d81b"
+      },
+      "name": "Manisha Rod",
+      "email": "adminbt@example.com",
+      "password": "$2a$10$E8gKQX4AE2/RhlluHpazGenmlpByOvtU8ugQvc1fRHBUodLaRKgxa",
+      "isAdmin": true,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-02-14T06:27:46.310Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-14T06:27:47.837Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YWVlMjYyYjc1ZjFlNzE4NTI4ZDgxYiIsImlhdCI6MTczOTUxNDQ2NywiZXhwIjoxNzM5NjAwODY3fQ.bpeXMIrZuTVyYGm_sVRofPGzdO96760h2N5uqAVdq78"
+    },
+    {
+      "_id": {
+        "$oid": "67b2cff53aca0828a47812b6"
+      },
+      "name": "Jyoti Rod",
+      "email": "user1@gmail.com",
+      "password": "$2b$10$m3jEGcqM7lXyAAqSUUKOeOfC2mIrRd7aZiJ4n//MKWz5X7hLO8yMy",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-02-17T05:58:13.428Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-17T05:58:35.793Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjJjZmY1M2FjYTA4MjhhNDc4MTJiNiIsImlhdCI6MTczOTc3MTkxNSwiZXhwIjoxNzM5ODU4MzE1fQ.8eWnSspVI4K0qKPP8_AOd59r3X3MjvrPFCMS8tYmn4M"
+    },
+    {
+      "_id": {
+        "$oid": "67b56da50fd4372d138a2435"
+      },
+      "name": "Neha Rod",
+      "email": "bhavana1@gmail.com",
+      "password": "$2b$10$X6XLZDfjpIxGD3SJRVFySuWQayUtcFCFhWHZO49KqrePAm9cAiumC",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-02-19T05:35:33.585Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-19T05:35:34.785Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjU2ZGE1MGZkNDM3MmQxMzhhMjQzNSIsImlhdCI6MTczOTk0MzMzNCwiZXhwIjoxNzQwMDI5NzM0fQ.0Fcqxb13lVHH23dy3wKqTTgj9iJL_jjJjU9B4zPY74Q"
+    },
+    {
+      "_id": {
+        "$oid": "67b5a901a16a36a273ffba75"
+      },
+      "name": "Akshit Rod",
+      "email": "ambrishgoswami0@gmail.com",
+      "password": "$2a$10$rFjkych5E043LejZfjFxjOhJ/nnvqPmHxWLLPhocrEAXHCnBSO8..",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-19T09:48:49.754Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-19T09:48:51.028Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjVhOTAxYTE2YTM2YTI3M2ZmYmE3NSIsImlhdCI6MTczOTk1ODUzMSwiZXhwIjoxNzQwMDQ0OTMxfQ.O29tY2MwOlkQ4V7YRQhMPl6Sb4D1wEoLILbKyEY5zlw"
+    },
+    {
+      "_id": {
+        "$oid": "67b76ffd0b005b8d99e8f55f"
+      },
+      "name": "Anil Rod",
+      "email": "shibammohanty8658@gmail.com",
+      "password": "$2a$10$3BsX0tOWs.e3Wd1s4i4Nd.jaxtYGvRQMmMpcK2u/okqiILR.iiedK",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-02-20T18:10:05.950Z"
+      },
+      "updatedAt": {
+        "$date": "2025-02-20T18:10:07.097Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3Yjc2ZmZkMGIwMDViOGQ5OWU4ZjU1ZiIsImlhdCI6MTc0MDA3NTAwNywiZXhwIjoxNzQwMTYxNDA3fQ.1zFYwOi3o1-H-ZVbogRtl0AEU_wg86JtWWkH2qaJxDw"
+    },
+    {
+      "_id": {
+        "$oid": "67c2a0ba937d6db453282a15"
+      },
+      "name": "Avi Rod",
+      "email": "john@gmail.com",
+      "password": "$2a$10$zZ4KHlfzX7TKHvnKWw9g0.8vBlzfG/BUgWD7FK76iQ/dbjBQ6r9Eq",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-03-01T05:52:58.334Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-01T05:52:58.970Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJhMGJhOTM3ZDZkYjQ1MzI4MmExNSIsImlhdCI6MTc0MDgwODM3OCwiZXhwIjoxNzQwODk0Nzc4fQ.CaSX-X_4yqh9t91beKpNlyNVYhet2am_EY4I0gIdPMA"
+    },
+    {
+      "_id": {
+        "$oid": "67c599f7e28944984e33e3b4"
+      },
+      "name": "Sachin Rod",
+      "email": "bidururkarthik1212@gmail.com",
+      "password": "$2b$10$7eRj0JUrdNow1bOAhnvgJeuT0a92WAskh4v8Cv08REIGlR8TGaZgC",
+      "isAdmin": false,
+      "isVerified": true,
+      "createdAt": {
+        "$date": "2025-03-03T12:00:55.543Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-03T12:00:56.802Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzU5OWY3ZTI4OTQ0OTg0ZTMzZTNiNCIsImlhdCI6MTc0MTAwMzI1NiwiZXhwIjoxNzQxMDg5NjU2fQ.ZO2OCnzpRWZwLnnUSeFZ05rKlRbdONKHCPO9CI_3tSc"
+    },
+    {
+      "_id": {
+        "$oid": "67c6c3eb97d31de64a051b95"
+      },
+      "name": "Kavar Rod",
+      "email": "arpilar401@gmail.com",
+      "password": "$2a$10$CMpZXk5rUx0cu03xUqOdquoFtAFkH.chr0rzPbTIgTdWzA00tARpO",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-03-04T09:12:11.387Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-04T09:12:12.370Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzZjM2ViOTdkMzFkZTY0YTA1MWI5NSIsImlhdCI6MTc0MTA3OTUzMiwiZXhwIjoxNzQxMTY1OTMyfQ.DRYDkgWINWTmiFM9eAm1TPsk-OPcPTFTiCjBC75yJho"
+    },
+    {
+      "_id": {
+        "$oid": "67c6c68697d31de64a051bb9"
+      },
+      "name": "Lokendra Rod",
+      "email": "a.rpilar401@gmail.com",
+      "password": "$2a$10$kBx86kNuaENv2fuXxvtWoOoKFde2nDLCYjJ/eyBd34t5/G8VSa1d.",
+      "isAdmin": false,
+      "isVerified": false,
+      "createdAt": {
+        "$date": "2025-03-04T09:23:18.770Z"
+      },
+      "updatedAt": {
+        "$date": "2025-03-04T09:23:19.467Z"
+      },
+      "__v": 0,
+      "isToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzZjNjg2OTdkMzFkZTY0YTA1MWJiOSIsImlhdCI6MTc0MTA4MDE5OSwiZXhwIjoxNzQxMTY2NTk5fQ.67Arg4YfKgvXsww7a6CxMDw8YXlyXTMdxsH178l8pjM"
+    }
+  ]
